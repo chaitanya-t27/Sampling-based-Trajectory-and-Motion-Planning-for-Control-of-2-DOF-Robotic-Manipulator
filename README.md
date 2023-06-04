@@ -11,6 +11,8 @@ The environment for the robot and the obstacles in a 2D environment have been sh
 
 The code first creates a configuration space from the given environment and the RRT* planner is run in the configuration space.
 
+![2D Configuration Space](./Conf_space.png)
+
 ## *RRT_star planner for tracking multiple waypoints *
 The robot tracks 7 waypoints. Each cycle of tracking is represented by red dot as starting point and green dot as final goal.
 
