@@ -13,7 +13,7 @@ The code first creates a configuration space from the given environment and the 
 
 ![2D Configuration Space](./Conf_space.png)
 
-## *RRT_star planner for tracking multiple waypoints *
+## *RRT_star planner for tracking multiple waypoints*
 The robot tracks 7 waypoints. Each cycle of tracking is represented by red dot as starting point and green dot as final goal.
 
 The following gif shows simultaneous planning of robot in the Cartesian space and the configuration space.
